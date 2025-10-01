@@ -1,4 +1,4 @@
-# 🔗 Bool Smart Contracts – Core Repository
+# 🔗 Bool Smart Contracts
 
 Revolutionizing decentralized systems, the **Bool Smart Contracts Core Repository** fuses **modular upgradeability** with **industry-standard token frameworks** and **enterprise-grade security** for unmatched scalability and interoperability.  
 
